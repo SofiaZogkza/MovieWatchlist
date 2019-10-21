@@ -23,7 +23,7 @@ namespace MovieWatchlist.Controllers
         {
             //stelno ena moviename kai mou epistrefi Lista
             var result = await _wServices.SearchMovie(request);
-            return View(result);
+            return result;
         }
 
         [HttpGet]

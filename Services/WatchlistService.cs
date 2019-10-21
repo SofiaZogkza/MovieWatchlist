@@ -28,7 +28,7 @@ namespace Services
             {
                 // TODO: Show the response to javascript
                 //return View(objTMDBResponse);
-                //return objTMDBResponse.ToList();
+                return objTMDBResponse.First(x => x.Movie.Any());
             }
 
             return new NoContentResult();
@@ -40,15 +40,10 @@ namespace Services
 
             using (var httpClient = new HttpClient { BaseAddress = baseAddress})
             {
-                var sofia = new Request()
-                {
-                    ApiKey = "008862c24c18c66f18982514a3641a88",
-                    Title = "Batman"
-                };
-                string output = JsonConvert.SerializeObject(sofia);
+                string output = JsonConvert.SerializeObject(request);
                 using (var content = new StringContent(output, System.Text.Encoding.Default, "application/json"))
                 {
-                    using (var response = await httpClient.GetAsync(address + sofia.Title.ToString()))// TODO: fix it with query string coming from javascript
+                    using (var response = await httpClient.GetAsync(address + request.Title.ToString()))// TODO: fix it with query string coming from javascript
                     {
                         string responseJsonData = await response.Content.ReadAsStringAsync();
                         return responseJsonData;

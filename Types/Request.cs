@@ -1,4 +1,5 @@
-﻿using System.Runtime.Serialization;
+﻿using Microsoft.AspNetCore.Mvc;
+using System.Runtime.Serialization;
 
 namespace Types
 {
@@ -7,6 +8,7 @@ namespace Types
     {
         [DataMember(Name = "api_key")]
         public string ApiKey { get; set; }
+        [BindProperty(SupportsGet = true)]
         [DataMember(Name = "query")]
         public string Title { get; set; }
     }

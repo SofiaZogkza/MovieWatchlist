@@ -60,6 +60,18 @@ namespace MovieWatchlist
                 endpoints.MapRazorPages();
             });
 
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapRazorPages();
+            });
+            //Comment the above "app.UseEndpoints" and Comment out the below in order to run it with Postman and test the endpoint
+            //app.UseEndpoints(endpoints =>
+            //{
+            //    endpoints.MapControllerRoute(
+            //        name: "default",
+            //        pattern: "{controller=Home}/{action=Index}/{id?}");
+            //});
+
         }
     }
 }

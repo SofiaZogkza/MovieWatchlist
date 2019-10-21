@@ -111,8 +111,6 @@ C:\Users\sof_z\source\repos\MovieWatchlist\MovieWatchlist\bin\Debug\netcoreapp3.
 C:\Users\sof_z\source\repos\MovieWatchlist\MovieWatchlist\obj\Debug\netcoreapp3.0\MovieWatchlist.csprojAssemblyReference.cache
 C:\Users\sof_z\source\repos\MovieWatchlist\MovieWatchlist\obj\Debug\netcoreapp3.0\staticwebassets\MovieWatchlist.StaticWebAssets.Manifest.cache
 C:\Users\sof_z\source\repos\MovieWatchlist\MovieWatchlist\obj\Debug\netcoreapp3.0\staticwebassets\MovieWatchlist.StaticWebAssets.xml
-C:\Users\sof_z\source\repos\MovieWatchlist\MovieWatchlist\obj\Debug\netcoreapp3.0\MovieWatchlist.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\sof_z\source\repos\MovieWatchlist\MovieWatchlist\obj\Debug\netcoreapp3.0\MovieWatchlist.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\sof_z\source\repos\MovieWatchlist\MovieWatchlist\obj\Debug\netcoreapp3.0\MovieWatchlist.RazorAssemblyInfo.cache
 C:\Users\sof_z\source\repos\MovieWatchlist\MovieWatchlist\obj\Debug\netcoreapp3.0\MovieWatchlist.RazorAssemblyInfo.cs
 C:\Users\sof_z\source\repos\MovieWatchlist\MovieWatchlist\obj\Debug\netcoreapp3.0\MovieWatchlist.AssemblyInfoInputs.cache
@@ -140,3 +138,8 @@ C:\Users\sof_z\source\repos\MovieWatchlist\MovieWatchlist\obj\Debug\netcoreapp3.
 C:\Users\sof_z\source\repos\MovieWatchlist\MovieWatchlist\obj\Debug\netcoreapp3.0\MovieWatchlist.csproj.CopyComplete
 C:\Users\sof_z\source\repos\MovieWatchlist\MovieWatchlist\obj\Debug\netcoreapp3.0\MovieWatchlist.dll
 C:\Users\sof_z\source\repos\MovieWatchlist\MovieWatchlist\obj\Debug\netcoreapp3.0\MovieWatchlist.pdb
+C:\Users\sof_z\source\repos\MovieWatchlist\MovieWatchlist\bin\Debug\netcoreapp3.0\System.Net.Http.Formatting.dll
+C:\Users\sof_z\source\repos\MovieWatchlist\MovieWatchlist\bin\Debug\netcoreapp3.0\System.Web.Http.dll
+C:\Users\sof_z\source\repos\MovieWatchlist\MovieWatchlist\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\sof_z\source\repos\MovieWatchlist\MovieWatchlist\obj\Debug\netcoreapp3.0\MovieWatchlist.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sof_z\source\repos\MovieWatchlist\MovieWatchlist\obj\Debug\netcoreapp3.0\MovieWatchlist.MvcApplicationPartsAssemblyInfo.cache

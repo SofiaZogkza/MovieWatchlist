@@ -5,3 +5,4 @@ C:\Users\sof_z\source\repos\MovieWatchlist\Types\obj\Debug\netcoreapp3.0\Types.A
 C:\Users\sof_z\source\repos\MovieWatchlist\Types\obj\Debug\netcoreapp3.0\Types.AssemblyInfo.cs
 C:\Users\sof_z\source\repos\MovieWatchlist\Types\obj\Debug\netcoreapp3.0\Types.dll
 C:\Users\sof_z\source\repos\MovieWatchlist\Types\obj\Debug\netcoreapp3.0\Types.pdb
+C:\Users\sof_z\source\repos\MovieWatchlist\Types\obj\Debug\netcoreapp3.0\Types.csprojAssemblyReference.cache
