@@ -1,0 +1,7 @@
+C:\Users\sof_z\source\repos\MovieWatchlist\Types\bin\Debug\netcoreapp3.0\Types.deps.json
+C:\Users\sof_z\source\repos\MovieWatchlist\Types\bin\Debug\netcoreapp3.0\Types.dll
+C:\Users\sof_z\source\repos\MovieWatchlist\Types\bin\Debug\netcoreapp3.0\Types.pdb
+C:\Users\sof_z\source\repos\MovieWatchlist\Types\obj\Debug\netcoreapp3.0\Types.AssemblyInfoInputs.cache
+C:\Users\sof_z\source\repos\MovieWatchlist\Types\obj\Debug\netcoreapp3.0\Types.AssemblyInfo.cs
+C:\Users\sof_z\source\repos\MovieWatchlist\Types\obj\Debug\netcoreapp3.0\Types.dll
+C:\Users\sof_z\source\repos\MovieWatchlist\Types\obj\Debug\netcoreapp3.0\Types.pdb

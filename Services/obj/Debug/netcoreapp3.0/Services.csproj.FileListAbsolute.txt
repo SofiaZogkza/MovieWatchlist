@@ -1,0 +1,13 @@
+C:\Users\sof_z\source\repos\MovieWatchlist\Services\bin\Debug\netcoreapp3.0\Services.deps.json
+C:\Users\sof_z\source\repos\MovieWatchlist\Services\bin\Debug\netcoreapp3.0\Services.dll
+C:\Users\sof_z\source\repos\MovieWatchlist\Services\bin\Debug\netcoreapp3.0\Services.pdb
+C:\Users\sof_z\source\repos\MovieWatchlist\Services\bin\Debug\netcoreapp3.0\Interfaces.dll
+C:\Users\sof_z\source\repos\MovieWatchlist\Services\bin\Debug\netcoreapp3.0\Types.dll
+C:\Users\sof_z\source\repos\MovieWatchlist\Services\bin\Debug\netcoreapp3.0\Interfaces.pdb
+C:\Users\sof_z\source\repos\MovieWatchlist\Services\bin\Debug\netcoreapp3.0\Types.pdb
+C:\Users\sof_z\source\repos\MovieWatchlist\Services\obj\Debug\netcoreapp3.0\Services.csprojAssemblyReference.cache
+C:\Users\sof_z\source\repos\MovieWatchlist\Services\obj\Debug\netcoreapp3.0\Services.AssemblyInfoInputs.cache
+C:\Users\sof_z\source\repos\MovieWatchlist\Services\obj\Debug\netcoreapp3.0\Services.AssemblyInfo.cs
+C:\Users\sof_z\source\repos\MovieWatchlist\Services\obj\Debug\netcoreapp3.0\Services.csproj.CopyComplete
+C:\Users\sof_z\source\repos\MovieWatchlist\Services\obj\Debug\netcoreapp3.0\Services.dll
+C:\Users\sof_z\source\repos\MovieWatchlist\Services\obj\Debug\netcoreapp3.0\Services.pdb

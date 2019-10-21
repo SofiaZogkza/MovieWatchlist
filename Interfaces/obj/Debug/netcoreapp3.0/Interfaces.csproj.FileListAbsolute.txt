@@ -1,0 +1,11 @@
+C:\Users\sof_z\source\repos\MovieWatchlist\Interfaces\bin\Debug\netcoreapp3.0\Interfaces.deps.json
+C:\Users\sof_z\source\repos\MovieWatchlist\Interfaces\bin\Debug\netcoreapp3.0\Interfaces.dll
+C:\Users\sof_z\source\repos\MovieWatchlist\Interfaces\bin\Debug\netcoreapp3.0\Interfaces.pdb
+C:\Users\sof_z\source\repos\MovieWatchlist\Interfaces\bin\Debug\netcoreapp3.0\Types.dll
+C:\Users\sof_z\source\repos\MovieWatchlist\Interfaces\bin\Debug\netcoreapp3.0\Types.pdb
+C:\Users\sof_z\source\repos\MovieWatchlist\Interfaces\obj\Debug\netcoreapp3.0\Interfaces.csprojAssemblyReference.cache
+C:\Users\sof_z\source\repos\MovieWatchlist\Interfaces\obj\Debug\netcoreapp3.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\sof_z\source\repos\MovieWatchlist\Interfaces\obj\Debug\netcoreapp3.0\Interfaces.AssemblyInfo.cs
+C:\Users\sof_z\source\repos\MovieWatchlist\Interfaces\obj\Debug\netcoreapp3.0\Interfaces.csproj.CopyComplete
+C:\Users\sof_z\source\repos\MovieWatchlist\Interfaces\obj\Debug\netcoreapp3.0\Interfaces.dll
+C:\Users\sof_z\source\repos\MovieWatchlist\Interfaces\obj\Debug\netcoreapp3.0\Interfaces.pdb
