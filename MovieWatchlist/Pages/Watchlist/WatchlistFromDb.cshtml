@@ -13,7 +13,7 @@
                 @Html.DisplayNameFor(model => model.Movie[0].Title)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Movie[0].GenreIds)
+                @Html.DisplayNameFor(model => model.Movie[0].poster_path)
             </th>
             <th></th>
         </tr>
@@ -29,8 +29,6 @@
                 @Html.DisplayFor(modelItem => item.Id)
             </td>
             <td>
-                <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
                 <a asp-page="./Delete From Watchlist" asp-route-id="@item.Id">Delete</a>
             </td>
         </tr>

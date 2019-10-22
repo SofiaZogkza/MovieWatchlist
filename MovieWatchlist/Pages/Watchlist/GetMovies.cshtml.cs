@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Linq;
 using System.Threading.Tasks;
-using System.Web.Http;
 using Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
@@ -40,6 +37,7 @@ namespace MovieWatchlist.Pages.Watchlist
             }
             // The list with all the Movies and characteristics that our Search returned.
             var responseFromTMDB =  _Iservices.SearchMovie(request);
+            
             // Keep only the title from the above movies.
             if (responseFromTMDB.Status != TaskStatus.Faulted)
             {
@@ -49,12 +47,6 @@ namespace MovieWatchlist.Pages.Watchlist
             {
                 return NotFound();
             }
-
-            if (!string.IsNullOrEmpty(Movie.Title))
-            {
-                movies = titleQuery.Where(s => s.Title.Contains(Movie.Title));
-            }
-
 
             if (responseFromTMDB == null)
             {

@@ -33,7 +33,10 @@ namespace Services
 
             return new NoContentResult();
         }
-
+        public Task<ActionResult<Response>> GetWatchlistFromDb()
+        {
+            throw new NotImplementedException();
+        }
         private async Task<string> SendRequestToMovieDbApi(Request request, string address)
         {
             var baseAddress = new Uri(address);
